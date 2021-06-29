@@ -4,6 +4,6 @@ public class HelloWorld {
     public static void main (String[] args){
         System.out.println("Hello World!");
         System.out.println("HI IDEA!");
-        System.out.println("fan a ,hai lai");
+        System.out.println("hello!");
     }
 }
